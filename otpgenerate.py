@@ -15,6 +15,8 @@ def generateotp(size_of_otp):
 	print(otp)
 
 
+#Adding few lines to check how git is working
+
 if __name__ == "__main__":
 	size_of_otp = int(input())
 	generateotp(size_of_otp)
